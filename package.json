@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@architect/functions": "^1.6.3",
     "@architect/workflows": "^2.1.0",
     "bel": "^5.1.5"
   }
