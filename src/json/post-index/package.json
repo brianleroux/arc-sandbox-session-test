@@ -1,0 +1,6 @@
+{
+  "name": "arc-sandbox-session-test-post-index",
+  "dependencies": {
+    "@architect/functions": "^1.6.3"
+  }
+}
